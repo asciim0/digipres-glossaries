@@ -41,7 +41,7 @@ Focus on digital imaging
   have waived all copyright and related or neighboring rights to
   <span property="dct:title">Codes of Conduct in Digital Preservation</span>.
 This work is published from:
-<span property="vcard:US" about="https://github.com/asciim0/digipres-glossaries">
-  United States</span>.
+<span property="vcard:DE" about="https://github.com/asciim0/digipres-glossaries">
+  Germany</span>.
 </p>
 
