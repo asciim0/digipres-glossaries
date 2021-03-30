@@ -3,21 +3,21 @@
 A community owned list of glossaries relevant to digital preservation domain.
 
 ## Glossaries
-* [FADGI] (http://www.digitizationguidelines.gov/glossary.php) 
+* [FADGI](http://www.digitizationguidelines.gov/glossary.php) 
 Focus on Still Image and AV Digitization and Preservation 
-* [NDSA Glossary] (https://ndsa.org/glossary/)
+* [NDSA Glossary](https://ndsa.org/glossary/)
 Glossary by the National Digital Stewardship Alliance written in 2013 to support the Levels of Preservation
-* [SAA Dictionary] (https://dictionary.archivists.org/index.html)
+* [SAA Dictionary](https://dictionary.archivists.org/index.html)
 Society of American Archivists Archive Terminology covering analog and digital
-* [SWGDE Digital & Multimedia Evidence Glossary] (https://www.leva.org/wp-content/uploads/2019/10/SWGDE-Glossary.pdf)
+* [SWGDE Digital & Multimedia Evidence Glossary](https://www.leva.org/wp-content/uploads/2019/10/SWGDE-Glossary.pdf)
 Focus on digital evidence / forensic, glossary by SWGDE - the Scientific Working Group on Digital Evidence
 
 ## Handbooks
-* [dpc Handbook] (https://www.dpconline.org/handbook)
+* [dpc Handbook](https://www.dpconline.org/handbook)
 Digital Preservation Handbook
 
 ## Currently under review 
-* [DANNNG] (https://docs.google.com/document/d/19FQLpuWrFQEpuJ0rjALGB0acbsxGwCJk2BD2-pMhA5I/edit#heading=h.wrd7fis3gi8m)
+* [DANNNG](https://docs.google.com/document/d/19FQLpuWrFQEpuJ0rjALGB0acbsxGwCJk2BD2-pMhA5I/edit#heading=h.wrd7fis3gi8m)
 Focus on digital imaging 
 
 ## Contributing to this resource
