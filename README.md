@@ -1,4 +1,4 @@
-# Digital Preservation Glossaries 
+# Digital Preservation Glossaries and Handbooks
 
 A community owned list of glossaries relevant to digital preservation domain.
 
