@@ -16,6 +16,10 @@ Focus on digital evidence / forensic, glossary by SWGDE - the Scientific Working
 * [dpc Handbook](https://www.dpconline.org/handbook)
 Digital Preservation Handbook
 
+## Ontology
+* [RDA DTF Defintions Version 3.0](https://smw-rda.esc.rzg.mpg.de/dft-3.0.html#A)
+Ontology developed by the [RDA Data Foundation and Terminology Working Group](https://rd-alliance.org/groups/data-foundation-and-terminology-wg.html) which "describes a basic, abstract data organization model which can be used to derive a reference data terminology that can be used across communities and stakeholders to better synchronize conceptualization, to enable better understanding within and between communities and finally to stimulate tool building, such as for data services, supportive of the basic model’s use."
+
 ## Currently under review 
 * [DANNNG](https://docs.google.com/document/d/19FQLpuWrFQEpuJ0rjALGB0acbsxGwCJk2BD2-pMhA5I/edit#heading=h.wrd7fis3gi8m)
 Focus on digital imaging 
