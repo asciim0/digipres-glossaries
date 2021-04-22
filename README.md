@@ -3,16 +3,19 @@
 A community owned list of glossaries relevant to digital preservation domain.
 
 ## Glossaries
+* [CASRAI Research Data Management Glossary](https://casrai.org/rdm-glossary/)
+Research Data Management Glossary
 * [FADGI](http://www.digitizationguidelines.gov/glossary.php) 
 Focus on Still Image and AV Digitization and Preservation 
+* [hbz Glossar wichtiger Begriffe in der Langzeitverfügbarkeit](https://service-wiki.hbz-nrw.de/pages/viewpage.action?pageId=565936255)
+German-language: Glossary of key digital preservation terms
 * [NDSA Glossary](https://ndsa.org/glossary/)
 Glossary by the National Digital Stewardship Alliance written in 2013 to support the Levels of Preservation
 * [SAA Dictionary](https://dictionary.archivists.org/index.html)
 Society of American Archivists Archive Terminology covering analog and digital
 * [SWGDE Digital & Multimedia Evidence Glossary](https://www.leva.org/wp-content/uploads/2019/10/SWGDE-Glossary.pdf)
 Focus on digital evidence / forensic, glossary by SWGDE - the Scientific Working Group on Digital Evidence
-* [CASRAI Research Data Management Glossary](https://casrai.org/rdm-glossary/)
-Research Data Management Glossary
+
 
 ## Handbooks
 * [dpc Handbook](https://www.dpconline.org/handbook)
