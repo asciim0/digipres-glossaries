@@ -11,14 +11,18 @@ Glossary by the National Digital Stewardship Alliance written in 2013 to support
 Society of American Archivists Archive Terminology covering analog and digital
 * [SWGDE Digital & Multimedia Evidence Glossary](https://www.leva.org/wp-content/uploads/2019/10/SWGDE-Glossary.pdf)
 Focus on digital evidence / forensic, glossary by SWGDE - the Scientific Working Group on Digital Evidence
+* [CASRAI Research Data Management Glossary](https://casrai.org/rdm-glossary/)
+Research Data Management Glossary
 
 ## Handbooks
 * [dpc Handbook](https://www.dpconline.org/handbook)
 Digital Preservation Handbook
 
-## Ontology
+## Ontology / Terminology
 * [RDA DTF Defintions Version 3.0](https://smw-rda.esc.rzg.mpg.de/dft-3.0.html#A)
 Ontology developed by the [RDA Data Foundation and Terminology Working Group](https://rd-alliance.org/groups/data-foundation-and-terminology-wg.html) which "describes a basic, abstract data organization model which can be used to derive a reference data terminology that can be used across communities and stakeholders to better synchronize conceptualization, to enable better understanding within and between communities and finally to stimulate tool building, such as for data services, supportive of the basic model’s use."
+* [terms4FAIRskills](https://github.com/terms4fairskills/FAIRterminology)
+The terms4FAIRskills project aims to create a formalised terminology that describes the competencies, skills and knowledge associated with making and keeping data FAIR. 
 
 ## Currently under review 
 * [DANNNG](https://docs.google.com/document/d/19FQLpuWrFQEpuJ0rjALGB0acbsxGwCJk2BD2-pMhA5I/edit#heading=h.wrd7fis3gi8m)
