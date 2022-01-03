@@ -15,7 +15,8 @@ Glossary by the National Digital Stewardship Alliance written in 2013 to support
 Society of American Archivists Archive Terminology covering analog and digital
 * [SWGDE Digital & Multimedia Evidence Glossary](https://www.leva.org/wp-content/uploads/2019/10/SWGDE-Glossary.pdf)
 Focus on digital evidence / forensic, glossary by SWGDE - the Scientific Working Group on Digital Evidence
-
+* [PDF Association Glossary of PDF terms](https://www.pdfa.org/glossary-of-pdf-terms/)
+Glossary of a few acronyms and terms encountered in PDF specs and accompanying documentation. 
 
 ## Handbooks
 * [dpc Handbook](https://www.dpconline.org/handbook)
